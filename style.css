@@ -155,8 +155,10 @@ i {
 }
 
 .btn-new { top: 45px;}
+#btn-rules {top: 90px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
+
 
 .dice {
     position: absolute;
@@ -190,7 +192,6 @@ i {
     padding: 20px;
     border: 1px solid #888;
     width: 80%; /* Could be more or less, depending on screen size */
-    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
 }
 
 /* The Close Button */
@@ -208,9 +209,6 @@ i {
     cursor: pointer;
 }
 
-#myBtn {
-    top: 90px;
-}
 
 /* Modal Images */
 .images-points {
